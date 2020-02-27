@@ -1,0 +1,28 @@
+.categories-cards {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.02) !important;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px !important;
+  width: 385px;
+  height: 84px;
+  margin-right: 15px;
+}
+
+.categories-cards:hover {
+  cursor: pointer;
+}
+
+.categories-cards img {
+  width: 126px;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.categories-cards p {
+  margin-left: 20px;
+  font-weight: bold;
+
+}

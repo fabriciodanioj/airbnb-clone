@@ -1,0 +1,25 @@
+.search-box {
+  margin-left: 20px;
+  display: flex;
+  border: 1px solid rgba(231, 231, 231, 0.933);
+  width: 460px;
+  max-width: 100%;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px !important;
+}
+
+.search-box:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 4px !important;
+  transition: 200ms ease-in-out 0s !important ;
+}
+
+.search-box input {
+  border: none;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #444;
+  width: 100%;
+}

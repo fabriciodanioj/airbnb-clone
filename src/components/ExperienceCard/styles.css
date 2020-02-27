@@ -1,0 +1,27 @@
+.experience-card {
+  width: 226px;
+  margin-top: 30px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.experience-card img {
+  width: 226px;
+  border-radius: 10px;
+}
+
+.container .experience-card h1 {
+  font-size: 16px;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.container .experience-card h2 {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.container .experience-card p {
+  font-size: 16px;
+  margin-top: 5px;
+}

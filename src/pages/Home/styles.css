@@ -1,0 +1,58 @@
+.container {
+  margin-top: 150px;
+  margin-right: 90px;
+  margin-left: 90px;
+}
+
+.container h1 {
+  font-size: 22px;
+}
+
+.container h2 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+.categories {
+  display: flex;
+  flex-direction: row;
+}
+
+.explore {
+  margin-top: 90px;
+}
+
+.experience {
+  margin-top: 50px;
+}
+
+.experience-cards {
+  display: flex;
+  flex-direction: row;
+}
+
+.container .experience a {
+  color: #000;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.plus {
+  margin-top: 90px;
+}
+
+.container .plus img {
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  width: 1210px;
+}
+
+.adventures {
+  margin-top: 50px;
+}
+
+.adventures-cards {
+  display: flex;
+}
